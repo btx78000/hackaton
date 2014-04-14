@@ -1,0 +1,145 @@
+#head-logo{
+	display:inline-block;
+	margin-left:20px;
+	margin-top:-10px;
+	color:#236B8E;
+}
+
+.page-wiki{
+	display:inline-block;
+	margin-left:250px;
+	width:950px;
+}
+
+#img-btn-block{
+	height:20px;
+	width:20px;
+}
+
+#nav-page{
+	display:inline-block;
+	margin-left:200px;
+	width:1000px;
+}
+
+.paragraphe{
+	display: inline-block;
+	width:650px;
+}
+
+.resume{
+	display:inline-block;
+}
+
+.titre-page{
+	color:#236B8E;
+}
+
+.bloc-note{
+width:140px;
+display:inline-block;
+}
+
+.btn-bloc-note{
+	height:40px;
+	width:40px;
+	margin-bottom:10px;
+	background-color:#cfcfcf;
+	border-left:3px solid #236B8E;
+	border-right:0px solid #236B8E;
+	border-top:3px solid #236B8E;
+	border-bottom:3px solid #236B8E;
+	border-top-left-radius:0.5em;
+	border-top-right-radius:0em;
+	border-bottom-right-radius:0em;
+	border-bottom-left-radius:0.5em;
+	transition: all linear 0.1s;
+}
+
+.btn-bloc-note:hover{
+	color:#236B8E;
+	height:40px;
+	width:120px;
+	background-color:#cfcfcf;
+	border-left:3px solid #236B8E;
+	border-right:0px solid #236B8E;
+	border-top:3px solid #236B8E;
+	border-bottom:3px solid #236B8E;
+	border-top-left-radius:0.5em;
+	border-top-right-radius:0em;
+	border-bottom-right-radius:0em;
+	border-bottom-left-radius:0.5em;
+	transition: all linear 0.2s;
+}
+.btn-bloc-note-active{
+	color:#236B8E;
+	height:40px;
+	width:120px;
+	background-color:#cfcfcf;
+	border-left:3px solid #236B8E;
+	border-right:0px solid #236B8E;
+	border-top:3px solid #236B8E;
+	border-bottom:3px solid #236B8E;
+	border-top-left-radius:0.5em;
+	border-top-right-radius:0em;
+	border-bottom-right-radius:0em;
+	border-bottom-left-radius:0.5em;
+}
+
+.menu-deroulent{
+	width:120px;
+	display: none;
+}
+
+.fiche-1-menu{
+	color: #236B8E;
+	text-align:center;
+	height:30px;
+	border-left:3px solid #236B8E;
+	border-right:0px solid #236B8E;
+	border-top:0px solid #236B8E;
+	border-bottom:1px solid #236B8E;
+	margin-top:7px;
+}
+
+.fiche-2-menu{
+	color: #236B8E;
+	text-align:center;
+	width:120px;
+	height:30px;
+	border-left:3px solid #236B8E;
+	border-right:0px solid #236B8E;
+	border-top:0px solid #236B8E;
+	border-bottom:3px solid #236B8E;
+	margin-top:0px;
+	border-bottom-left-radius:0.5em;
+}
+
+.fiches-menu-active{
+	color: #236B8E;
+	text-align:center;
+	background-color:#cfcfcf;
+	width:120px;
+	height:30px;
+	border-left:3px solid #236B8E;
+	border-right:0px solid #236B8E;
+	border-top:0px solid #236B8E;
+	border-bottom:1px solid #236B8E;
+	margin-top:0px;
+}
+
+.btn-add-note
+{
+	display: block;
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	border-radius: 2px;
+	margin: 0 auto;
+	border: 0;
+	background: 0;
+	text-indent: -999em;
+	cursor: pointer;
+	background-color: red;
+}
+
